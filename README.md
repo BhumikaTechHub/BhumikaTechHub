@@ -106,17 +106,7 @@ Currently Working On:
 
 
 
----
 
-#  LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/bhumika_2434?theme=dark&font=Nunito&ext=heatmap"/>
-
-</div>
-
----
 
 #  Featured Projects
 
